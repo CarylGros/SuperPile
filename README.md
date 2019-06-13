@@ -2,10 +2,10 @@
 Pile en français
 
 language du Code:
--Java
+Java
 
 Environnement de développement:
--Eclipse
+Eclipse
 
 
 Caryl
