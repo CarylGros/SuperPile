@@ -2,6 +2,7 @@
 
 # SuperPile
 
+Description:
 Pile en français
 
 language du Code:
@@ -11,4 +12,5 @@ Environnement de développement:
 Eclipse
 
 
-Caryl
+Développeur:
+CG
